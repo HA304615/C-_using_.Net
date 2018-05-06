@@ -1,0 +1,5 @@
+E:\.Net topgear\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe.config
+E:\.Net topgear\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe
+E:\.Net topgear\Constructor\Constructor\Constructor\bin\Debug\Constructor.pdb
+E:\.Net topgear\Constructor\Constructor\Constructor\obj\Debug\Constructor.exe
+E:\.Net topgear\Constructor\Constructor\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,6 @@
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\bin\Debug\ListArraysHashTable.exe.config
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\bin\Debug\ListArraysHashTable.exe
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\bin\Debug\ListArraysHashTable.pdb
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\obj\Debug\ListArraysHashTable.csprojResolveAssemblyReference.cache
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\obj\Debug\ListArraysHashTable.exe
+E:\.Net topgear\ListArraysHashTable\ListArraysHashTable\ListArraysHashTable\obj\Debug\ListArraysHashTable.pdb

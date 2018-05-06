@@ -1,0 +1,1 @@
+E:\.Net topgear\AccessSpecifier\Protected\ProtectedAccessSpecifier\ProtectedAccessSpecifier\bin\Debug\ProtectedAccessSpecifier.exe.config

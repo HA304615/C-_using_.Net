@@ -1,0 +1,6 @@
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\.Net topgear\Abstract Classes\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

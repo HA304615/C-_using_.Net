@@ -1,0 +1,6 @@
+E:\.Net topgear\Properties\Properties\Properties\bin\Debug\Properties.exe.config
+E:\.Net topgear\Properties\Properties\Properties\bin\Debug\Properties.exe
+E:\.Net topgear\Properties\Properties\Properties\bin\Debug\Properties.pdb
+E:\.Net topgear\Properties\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+E:\.Net topgear\Properties\Properties\Properties\obj\Debug\Properties.exe
+E:\.Net topgear\Properties\Properties\Properties\obj\Debug\Properties.pdb

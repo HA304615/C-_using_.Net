@@ -1,0 +1,6 @@
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\.Net topgear\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

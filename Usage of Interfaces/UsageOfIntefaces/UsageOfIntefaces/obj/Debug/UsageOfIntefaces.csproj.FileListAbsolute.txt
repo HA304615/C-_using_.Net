@@ -1,0 +1,6 @@
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\bin\Debug\UsageOfIntefaces.exe.config
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\bin\Debug\UsageOfIntefaces.exe
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\bin\Debug\UsageOfIntefaces.pdb
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\obj\Debug\UsageOfIntefaces.csprojResolveAssemblyReference.cache
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\obj\Debug\UsageOfIntefaces.exe
+E:\.Net topgear\Usage of Interfaces\UsageOfIntefaces\UsageOfIntefaces\obj\Debug\UsageOfIntefaces.pdb

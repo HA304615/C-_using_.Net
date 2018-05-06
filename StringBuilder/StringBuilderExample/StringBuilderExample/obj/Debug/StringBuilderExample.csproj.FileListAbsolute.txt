@@ -1,0 +1,6 @@
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\bin\Debug\StringBuilderExample.exe.config
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\bin\Debug\StringBuilderExample.exe
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\bin\Debug\StringBuilderExample.pdb
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\obj\Debug\StringBuilderExample.csprojResolveAssemblyReference.cache
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\obj\Debug\StringBuilderExample.exe
+E:\.Net topgear\StringBuilder\StringBuilderExample\StringBuilderExample\obj\Debug\StringBuilderExample.pdb

@@ -1,0 +1,5 @@
+E:\.Net topgear\AccessSpecifier\Public\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe.config
+E:\.Net topgear\AccessSpecifier\Public\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe
+E:\.Net topgear\AccessSpecifier\Public\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.pdb
+E:\.Net topgear\AccessSpecifier\Public\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.exe
+E:\.Net topgear\AccessSpecifier\Public\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.pdb

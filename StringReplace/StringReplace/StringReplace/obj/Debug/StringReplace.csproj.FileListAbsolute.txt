@@ -1,0 +1,6 @@
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\bin\Debug\StringReplace.exe.config
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\obj\Debug\StringReplace.csprojResolveAssemblyReference.cache
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\bin\Debug\StringReplace.exe
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\bin\Debug\StringReplace.pdb
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\obj\Debug\StringReplace.exe
+E:\.Net topgear\StringReplace\StringReplace\StringReplace\obj\Debug\StringReplace.pdb

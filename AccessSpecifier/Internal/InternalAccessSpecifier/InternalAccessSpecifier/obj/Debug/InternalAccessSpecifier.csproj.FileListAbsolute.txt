@@ -1,0 +1,6 @@
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.exe.config
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.exe
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\bin\Debug\InternalAccessSpecifier.pdb
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.csprojResolveAssemblyReference.cache
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.exe
+E:\.Net topgear\AccessSpecifier\Internal\InternalAccessSpecifier\InternalAccessSpecifier\obj\Debug\InternalAccessSpecifier.pdb

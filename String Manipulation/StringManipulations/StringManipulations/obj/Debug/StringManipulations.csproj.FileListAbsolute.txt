@@ -1,0 +1,6 @@
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\bin\Debug\StringManipulations.exe.config
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\bin\Debug\StringManipulations.exe
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\bin\Debug\StringManipulations.pdb
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\obj\Debug\StringManipulations.csprojResolveAssemblyReference.cache
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\obj\Debug\StringManipulations.exe
+E:\.Net topgear\String Manipulation\StringManipulations\StringManipulations\obj\Debug\StringManipulations.pdb

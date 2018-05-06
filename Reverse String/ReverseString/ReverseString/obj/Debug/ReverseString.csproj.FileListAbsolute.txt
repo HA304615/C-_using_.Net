@@ -1,0 +1,6 @@
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
+E:\.Net topgear\Reverse String\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache

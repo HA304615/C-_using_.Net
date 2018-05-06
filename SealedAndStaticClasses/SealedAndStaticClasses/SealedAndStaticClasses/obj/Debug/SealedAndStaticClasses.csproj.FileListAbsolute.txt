@@ -1,0 +1,5 @@
+E:\.Net topgear\SealedAndStaticClasses\SealedAndStaticClasses\SealedAndStaticClasses\bin\Debug\SealedAndStaticClasses.exe.config
+E:\.Net topgear\SealedAndStaticClasses\SealedAndStaticClasses\SealedAndStaticClasses\bin\Debug\SealedAndStaticClasses.exe
+E:\.Net topgear\SealedAndStaticClasses\SealedAndStaticClasses\SealedAndStaticClasses\bin\Debug\SealedAndStaticClasses.pdb
+E:\.Net topgear\SealedAndStaticClasses\SealedAndStaticClasses\SealedAndStaticClasses\obj\Debug\SealedAndStaticClasses.exe
+E:\.Net topgear\SealedAndStaticClasses\SealedAndStaticClasses\SealedAndStaticClasses\obj\Debug\SealedAndStaticClasses.pdb

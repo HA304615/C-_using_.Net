@@ -1,0 +1,6 @@
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+E:\.Net topgear\ExceptionHandling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
